@@ -74,26 +74,32 @@ This data is ideal for performing exploratory data analysis and uncovering insig
 
 ---
 
-## 🚀 How to Use This Project
+## 🚀 How to Run This Project
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/Riddhimaraii/Diwali-Sales-Analysis.git
-2. Navigate to the project directory
-cd Diwali-Sales-Analysis
-3. Install required packages
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Riddhimaraii/Diwali-Sales-Analysis.git
+2. Navigate to the project directory:
+   cd Diwali-Sales-Analysis
+   
+3.Install required packages:
 pip install -r requirements.txt
-4. Run the Jupyter Notebook
+
+4.Run the Jupyter Notebook:
 jupyter notebook
+
 Open Diwali Sales Analysis.ipynb to explore the full analysis.
 
 📌 Key Insights & Findings
+
 This project helps identify:
 
-Which products sold the most during Diwali
+•Which products sold the most during Diwali
 
-Sales growth or decline patterns compared to non-festival periods
+•Customer purchasing behavior patterns
 
-Peak buying days and times
+•Revenue trends across demographics
 
-Recommendations for stock planning and marketing
+•High-performing categories
+
+•Sales distribution by gender, age, and state
